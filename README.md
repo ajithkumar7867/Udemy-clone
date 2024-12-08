@@ -13,4 +13,4 @@ This project is a basic recreation of the Udemy landing page, designed using **H
 - **HTML5**: For creating the structure and layout of the page.  
 - **CSS3**: For styling and visual enhancements.  
 
-## 📁 Project Structure  
+
